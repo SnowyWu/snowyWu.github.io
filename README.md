@@ -1,2 +1,1 @@
-# bookish-palm-tree
-update
+# snowyWu的个人技术网站
